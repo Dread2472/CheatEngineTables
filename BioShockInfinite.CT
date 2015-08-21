@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="18">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>33</ID>
+      <Description>"Useful Things"</Description>
+      <Options moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
+      <LastState Value="" Activated="0" RealAddress="00000000"/>
+      <Color>80000008</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>68</ID>
+          <Description>"Game Speed (0.5 Half Speed, 2.0 Double Speed)"</Description>
+          <LastState Value="??" Activated="0" RealAddress="00000000"/>
+          <Color>80000008</Color>
+          <VariableType>Float</VariableType>
+          <Address>"BioShockInfinite.exe"+013DA294</Address>
+          <Offsets>
+            <Offset>398</Offset>
+            <Offset>14</Offset>
+            <Offset>530</Offset>
+            <Offset>A4</Offset>
+            <Offset>2C</Offset>
+          </Offsets>
+          <Hotkeys>
+            <Hotkey>
+              <Action>Set Value</Action>
+              <Keys>
+                <Key>105</Key>
+              </Keys>
+              <Value>5</Value>
+              <ID>0</ID>
+            </Hotkey>
+            <Hotkey>
+              <Action>Set Value</Action>
+              <Keys>
+                <Key>104</Key>
+              </Keys>
+              <Value>3</Value>
+              <ID>1</ID>
+            </Hotkey>
+            <Hotkey>
+              <Action>Set Value</Action>
+              <Keys>
+                <Key>103</Key>
+              </Keys>
+              <Value>1</Value>
+              <ID>2</ID>
+            </Hotkey>
+          </Hotkeys>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>60</ID>
+          <Description>"Game Speed (0.5 Half Speed, 2.0 Double Speed)"</Description>
+          <LastState Value="??" Activated="0" RealAddress="00000000"/>
+          <Color>80000008</Color>
+          <VariableType>Float</VariableType>
+          <Address>"BioShockInfinite.exe"+013DA2D0</Address>
+          <Offsets>
+            <Offset>398</Offset>
+            <Offset>A4</Offset>
+            <Offset>14</Offset>
+            <Offset>24</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>80</ID>
+          <Description>"118 - Normal Collision 138 - No Collision"</Description>
+          <LastState Value="??" Activated="0" RealAddress="00000000"/>
+          <Color>80000008</Color>
+          <VariableType>Byte</VariableType>
+          <Address>"BioShockInfinite.exe"+013DA2DC</Address>
+          <Offsets>
+            <Offset>60</Offset>
+            <Offset>A0</Offset>
+            <Offset>38</Offset>
+            <Offset>10</Offset>
+          </Offsets>
+          <Hotkeys>
+            <Hotkey>
+              <Action>Set Value</Action>
+              <Keys>
+                <Key>99</Key>
+              </Keys>
+              <Value>138</Value>
+              <ID>0</ID>
+            </Hotkey>
+            <Hotkey>
+              <Action>Set Value</Action>
+              <Keys>
+                <Key>100</Key>
+              </Keys>
+              <Value>118</Value>
+              <ID>1</ID>
+            </Hotkey>
+          </Hotkeys>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>69</ID>
+          <Description>"118 - Normal Collision 138 - No Collision"</Description>
+          <LastState Value="??" Activated="0" RealAddress="00000000"/>
+          <Color>80000008</Color>
+          <VariableType>Byte</VariableType>
+          <Address>"BioShockInfinite.exe"+014278E8</Address>
+          <Offsets>
+            <Offset>60</Offset>
+            <Offset>6C</Offset>
+            <Offset>0</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>71</ID>
+          <Description>"1 - On Ground 2 - In Air 3 - No Grav? 4 - Flying"</Description>
+          <LastState Value="??" Activated="0" RealAddress="00000000"/>
+          <Color>80000008</Color>
+          <VariableType>Byte</VariableType>
+          <Address>"BioShockInfinite.exe"+014278E8</Address>
+          <Offsets>
+            <Offset>84</Offset>
+            <Offset>80</Offset>
+            <Offset>14</Offset>
+            <Offset>0</Offset>
+          </Offsets>
+          <Hotkeys>
+            <Hotkey>
+              <Action>Set Value</Action>
+              <Keys>
+                <Key>97</Key>
+              </Keys>
+              <Value>1</Value>
+              <ID>0</ID>
+            </Hotkey>
+            <Hotkey>
+              <Action>Set Value</Action>
+              <Keys>
+                <Key>98</Key>
+              </Keys>
+              <Value>4</Value>
+              <ID>1</ID>
+            </Hotkey>
+          </Hotkeys>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>34</ID>
+      <Description>"Load Removal Things"</Description>
+      <Options moManualExpandCollapse="1"/>
+      <LastState Value="" Activated="0" RealAddress="00000000"/>
+      <Color>80000008</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>0</ID>
+          <Description>"Loading Screen 1"</Description>
+          <LastState Value="??" Activated="0" RealAddress="00000000"/>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"BioShockInfinite.exe"+0137CF94</Address>
+          <Offsets>
+            <Offset>19C</Offset>
+            <Offset>3BC</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1</ID>
+          <Description>"Loading Screen 2"</Description>
+          <LastState Value="??" Activated="0" RealAddress="00000000"/>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"BioShockInfinite.exe"+0142DCAC</Address>
+          <Offsets>
+            <Offset>19C</Offset>
+            <Offset>510</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2</ID>
+          <Description>"Loading Screen 3"</Description>
+          <LastState Value="??" Activated="0" RealAddress="00000000"/>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"BioShockInfinite.exe"+013D8974</Address>
+          <Offsets>
+            <Offset>19C</Offset>
+            <Offset>1BC</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>108</ID>
+          <Description>"playercontrol end"</Description>
+          <LastState Value="??" Activated="0" RealAddress="00000000"/>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"BioShockInfinite.exe"+0141574C</Address>
+          <Offsets>
+            <Offset>3AC</Offset>
+            <Offset>5E4</Offset>
+            <Offset>14C</Offset>
+            <Offset>734</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>97</ID>
+          <Description>"playercontrol"</Description>
+          <LastState Value="??" Activated="0" RealAddress="00000000"/>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"BioShockInfinite.exe"+01423D18</Address>
+          <Offsets>
+            <Offset>2C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>107</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="??" Activated="0" RealAddress="00000000"/>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"BioShockInfinite.exe"+0141F5A0</Address>
+          <Offsets>
+            <Offset>56C</Offset>
+            <Offset>4D4</Offset>
+            <Offset>2CC</Offset>
+            <Offset>1C4</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>109</ID>
+          <Description>"PLAYER CONTROL SCRIPT"</Description>
+          <LastState Value="??" Activated="0" RealAddress="00000000"/>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>BioshockInfinite.exe+1423D18</Address>
+          <Offsets>
+            <Offset>2C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>110</ID>
+          <Description>"LOADING SCREEN SCRIPT"</Description>
+          <LastState Value="??" Activated="0" RealAddress="00000000"/>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>BioshockInfinite.exe+137CF94</Address>
+          <Offsets>
+            <Offset>19C</Offset>
+            <Offset>3BC</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>111</ID>
+          <Description>"PAUSED SCRIPT"</Description>
+          <LastState Value="??" Activated="0" RealAddress="00000000"/>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>BioshockInfinite.exe+13D2A58</Address>
+          <Offsets>
+            <Offset>2F4</Offset>
+            <Offset>730</Offset>
+            <Offset>780</Offset>
+            <Offset>534</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+  <Comments>Info about this table:
+</Comments>
+</CheatTable>

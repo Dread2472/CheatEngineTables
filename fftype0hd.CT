@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="18">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>4</ID>
+      <Description>"In-Game Time (1 sec = 65536)"</Description>
+      <LastState Value="??" Activated="0" RealAddress="00711BF8"/>
+      <ShowAsSigned>0</ShowAsSigned>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>fftype0hd.exe+701BF8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>39</ID>
+      <Description>"X"</Description>
+      <LastState Value="??" Activated="0" RealAddress="00000000"/>
+      <Color>80000008</Color>
+      <VariableType>Float</VariableType>
+      <Address>"fftype0hd.exe"+0075A250</Address>
+      <Offsets>
+        <Offset>10</Offset>
+      </Offsets>
+      <Hotkeys>
+        <Hotkey>
+          <Action>Increase Value</Action>
+          <Keys>
+            <Key>104</Key>
+          </Keys>
+          <Value>100</Value>
+          <ID>0</ID>
+        </Hotkey>
+        <Hotkey>
+          <Action>Decrease Value</Action>
+          <Keys>
+            <Key>98</Key>
+          </Keys>
+          <Value>100</Value>
+          <ID>1</ID>
+        </Hotkey>
+      </Hotkeys>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>40</ID>
+      <Description>"Z"</Description>
+      <LastState Value="??" Activated="0" RealAddress="00000000"/>
+      <Color>80000008</Color>
+      <VariableType>Float</VariableType>
+      <Address>"fftype0hd.exe"+0075A250</Address>
+      <Offsets>
+        <Offset>8</Offset>
+      </Offsets>
+      <Hotkeys>
+        <Hotkey>
+          <Action>Increase Value</Action>
+          <Keys>
+            <Key>100</Key>
+          </Keys>
+          <Value>100</Value>
+          <ID>0</ID>
+        </Hotkey>
+        <Hotkey>
+          <Action>Decrease Value</Action>
+          <Keys>
+            <Key>102</Key>
+          </Keys>
+          <Value>100</Value>
+          <ID>1</ID>
+        </Hotkey>
+      </Hotkeys>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>42</ID>
+      <Description>"Y (visual only?)"</Description>
+      <LastState Value="??" Activated="0" RealAddress="00000000"/>
+      <Color>80000008</Color>
+      <VariableType>Float</VariableType>
+      <Address>"fftype0hd.exe"+0075A250</Address>
+      <Offsets>
+        <Offset>304</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>43</ID>
+      <Description>"Money"</Description>
+      <LastState Value="??" Activated="0" RealAddress="006D3C9C"/>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>fftype0hd.exe+6C3C9C</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>45</ID>
+      <Description>"Movement Speed hopefully"</Description>
+      <LastState Value="??" Activated="0" RealAddress="00000000"/>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"fftype0hd.exe"+00654AF8</Address>
+      <Offsets>
+        <Offset>110</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>46</ID>
+      <Description>"Chocobo Male"</Description>
+      <LastState Value="??" Activated="0" RealAddress="0076D374"/>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>fftype0hd.exe+75D374</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>

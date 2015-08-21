@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="18">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>60</ID>
+      <Description>"Player"</Description>
+      <Options moManualExpandCollapse="1"/>
+      <LastState Value="" Activated="0" RealAddress="00000000"/>
+      <Color>80000008</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>102</ID>
+          <Description>"Health"</Description>
+          <LastState Value="1600" Activated="0" RealAddress="2EDEEDD0"/>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"METAL GEAR RISING REVENGEANCE.exe"+017EA544</Address>
+          <Offsets>
+            <Offset>6C0</Offset>
+            <Offset>2FC</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>32</ID>
+          <Description>"BP (Freeze and Restart Checkpoint)"</Description>
+          <LastState Value="8579752" Activated="0" RealAddress="02B3589C"/>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"METAL GEAR RISING REVENGEANCE.exe"+177589C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>147</ID>
+          <Description>"Cut Parts Lol"</Description>
+          <LastState Value="0" Activated="0" RealAddress="1FC43D74"/>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"METAL GEAR RISING REVENGEANCE.exe"+017EA184</Address>
+          <Offsets>
+            <Offset>14</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>148</ID>
+          <Description>"Cut Parts 2"</Description>
+          <LastState Value="0" Activated="0" RealAddress="1FC43D74"/>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"METAL GEAR RISING REVENGEANCE.exe"+017EA184</Address>
+          <Offsets>
+            <Offset>28</Offset>
+            <Offset>12C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>149</ID>
+          <Description>"Cut Parts 3"</Description>
+          <LastState Value="0" Activated="0" RealAddress="1FC43D74"/>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"METAL GEAR RISING REVENGEANCE.exe"+017EA100</Address>
+          <Offsets>
+            <Offset>28</Offset>
+            <Offset>26C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>150</ID>
+          <Description>"Cut Parts 4"</Description>
+          <LastState Value="0" Activated="0" RealAddress="1FC43D74"/>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"METAL GEAR RISING REVENGEANCE.exe"+017EA100</Address>
+          <Offsets>
+            <Offset>154</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>151</ID>
+          <Description>"Cut Parts 5"</Description>
+          <LastState Value="0" Activated="0" RealAddress="1FC43D74"/>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"METAL GEAR RISING REVENGEANCE.exe"+017EA100</Address>
+          <Offsets>
+            <Offset>3C</Offset>
+            <Offset>134</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>143</ID>
+          <Description>"X"</Description>
+          <LastState Value="148.2768097" Activated="0" RealAddress="2EDEE5B8"/>
+          <Color>80000008</Color>
+          <VariableType>Float</VariableType>
+          <Address>"METAL GEAR RISING REVENGEANCE.exe"+0177B4A4</Address>
+          <Offsets>
+            <Offset>58</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>144</ID>
+          <Description>"Y"</Description>
+          <LastState Value="13.07316303" Activated="1" RealAddress="2EDEE5B4"/>
+          <Color>80000008</Color>
+          <VariableType>Float</VariableType>
+          <Address>"METAL GEAR RISING REVENGEANCE.exe"+0177B4A4</Address>
+          <Offsets>
+            <Offset>54</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>145</ID>
+          <Description>"Z"</Description>
+          <LastState Value="19.21585083" Activated="0" RealAddress="2EDEE5B0"/>
+          <Color>80000008</Color>
+          <VariableType>Float</VariableType>
+          <Address>"METAL GEAR RISING REVENGEANCE.exe"+0177B4A4</Address>
+          <Offsets>
+            <Offset>50</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>106</ID>
+          <Description>"BladeWolf"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="" Activated="0" RealAddress="00000000"/>
+          <Color>80000008</Color>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>85</ID>
+              <Description>"Wolf Input/Animation"</Description>
+              <LastState Value="0" Activated="0" RealAddress="2EE4D438"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"METAL GEAR RISING REVENGEANCE.exe"+014A5014</Address>
+              <Offsets>
+                <Offset>618</Offset>
+                <Offset>0</Offset>
+                <Offset>10</Offset>
+                <Offset>1C</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>86</ID>
+              <Description>"Bladewolf Strings"</Description>
+              <Options moManualExpandCollapse="1"/>
+              <LastState Value="" Activated="0" RealAddress="00000000"/>
+              <Color>80000008</Color>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>87</ID>
+                  <Description>"No description"</Description>
+                  <LastState Activated="0" RealAddress="02B023ED"/>
+                  <Color>80000008</Color>
+                  <VariableType>String</VariableType>
+                  <Length>9</Length>
+                  <Unicode>0</Unicode>
+                  <ZeroTerminate>1</ZeroTerminate>
+                  <Address>"METAL GEAR RISING REVENGEANCE.exe"+17423ED</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>88</ID>
+                  <Description>"No description"</Description>
+                  <LastState Activated="0" RealAddress="02B1D10D"/>
+                  <Color>80000008</Color>
+                  <VariableType>String</VariableType>
+                  <Length>9</Length>
+                  <Unicode>0</Unicode>
+                  <ZeroTerminate>1</ZeroTerminate>
+                  <Address>"METAL GEAR RISING REVENGEANCE.exe"+175D10D</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>89</ID>
+                  <Description>"No description"</Description>
+                  <LastState Activated="0" RealAddress="02B2600D"/>
+                  <Color>80000008</Color>
+                  <VariableType>String</VariableType>
+                  <Length>9</Length>
+                  <Unicode>0</Unicode>
+                  <ZeroTerminate>1</ZeroTerminate>
+                  <Address>"METAL GEAR RISING REVENGEANCE.exe"+176600D</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>90</ID>
+                  <Description>"No description"</Description>
+                  <LastState Activated="0" RealAddress="02B2EEED"/>
+                  <Color>80000008</Color>
+                  <VariableType>String</VariableType>
+                  <Length>9</Length>
+                  <Unicode>0</Unicode>
+                  <ZeroTerminate>1</ZeroTerminate>
+                  <Address>"METAL GEAR RISING REVENGEANCE.exe"+176EEED</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>91</ID>
+                  <Description>"No description"</Description>
+                  <LastState Activated="0" RealAddress="02B37E0D"/>
+                  <Color>80000008</Color>
+                  <VariableType>String</VariableType>
+                  <Length>9</Length>
+                  <Unicode>0</Unicode>
+                  <ZeroTerminate>1</ZeroTerminate>
+                  <Address>"METAL GEAR RISING REVENGEANCE.exe"+1777E0D</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>107</ID>
+          <Description>"Raiden"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="" Activated="0" RealAddress="00000000"/>
+          <Color>80000008</Color>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>56</ID>
+              <Description>"Raiden Input/Animation"</Description>
+              <LastState Value="13" Activated="0" RealAddress="2EDEEB78"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"METAL GEAR RISING REVENGEANCE.exe"+019C14C4</Address>
+              <Offsets>
+                <Offset>618</Offset>
+                <Offset>788</Offset>
+              </Offsets>
+              <Hotkeys>
+                <Hotkey>
+                  <Action>Set Value</Action>
+                  <Keys>
+                    <Key>77</Key>
+                  </Keys>
+                  <Value>155</Value>
+                  <ID>0</ID>
+                </Hotkey>
+                <Hotkey>
+                  <Action>Set Value</Action>
+                  <Keys>
+                    <Key>78</Key>
+                  </Keys>
+                  <Value>154</Value>
+                  <ID>1</ID>
+                </Hotkey>
+              </Hotkeys>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>92</ID>
+              <Description>"Raiden Strings"</Description>
+              <Options moRecursiveSetValue="1" moManualExpandCollapse="1"/>
+              <LastState Value="" Activated="0" RealAddress="00000000"/>
+              <Color>80000008</Color>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>76</ID>
+                  <Description>"String 4"</Description>
+                  <LastState Activated="0" RealAddress="02B00A59"/>
+                  <Color>80000008</Color>
+                  <VariableType>String</VariableType>
+                  <Length>16</Length>
+                  <Unicode>0</Unicode>
+                  <ZeroTerminate>1</ZeroTerminate>
+                  <Address>"METAL GEAR RISING REVENGEANCE.exe"+1740A59</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>77</ID>
+                  <Description>"String 5"</Description>
+                  <LastState Activated="0" RealAddress="02B1B779"/>
+                  <Color>80000008</Color>
+                  <VariableType>String</VariableType>
+                  <Length>16</Length>
+                  <Unicode>0</Unicode>
+                  <ZeroTerminate>1</ZeroTerminate>
+                  <Address>"METAL GEAR RISING REVENGEANCE.exe"+175B779</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>78</ID>
+                  <Description>"String 6"</Description>
+                  <LastState Activated="0" RealAddress="02B24679"/>
+                  <Color>80000008</Color>
+                  <VariableType>String</VariableType>
+                  <Length>16</Length>
+                  <Unicode>0</Unicode>
+                  <ZeroTerminate>1</ZeroTerminate>
+                  <Address>"METAL GEAR RISING REVENGEANCE.exe"+1764679</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>79</ID>
+                  <Description>"String 7"</Description>
+                  <LastState Activated="0" RealAddress="02B2D559"/>
+                  <Color>80000008</Color>
+                  <VariableType>String</VariableType>
+                  <Length>16</Length>
+                  <Unicode>0</Unicode>
+                  <ZeroTerminate>1</ZeroTerminate>
+                  <Address>"METAL GEAR RISING REVENGEANCE.exe"+176D559</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>80</ID>
+                  <Description>"String 8"</Description>
+                  <LastState Activated="0" RealAddress="02B36479"/>
+                  <Color>80000008</Color>
+                  <VariableType>String</VariableType>
+                  <Length>16</Length>
+                  <Unicode>0</Unicode>
+                  <ZeroTerminate>1</ZeroTerminate>
+                  <Address>"METAL GEAR RISING REVENGEANCE.exe"+1776479</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>108</ID>
+          <Description>"Raiden01"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <LastState Value="" Activated="0" RealAddress="00000000"/>
+          <Color>80000008</Color>
+          <GroupHeader>1</GroupHeader>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>97</ID>
+              <Description>"Raiden01 Input/Animation"</Description>
+              <LastState Value="??" Activated="0" RealAddress="00000000"/>
+              <Color>80000008</Color>
+              <VariableType>4 Bytes</VariableType>
+              <Address>"METAL GEAR RISING REVENGEANCE.exe"+0177C2B4</Address>
+              <Offsets>
+                <Offset>618</Offset>
+                <Offset>30</Offset>
+                <Offset>D0</Offset>
+                <Offset>3BC</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>110</ID>
+              <Description>"Raiden Strings"</Description>
+              <Options moRecursiveSetValue="1" moManualExpandCollapse="1"/>
+              <LastState Value="" Activated="0" RealAddress="00000000"/>
+              <Color>80000008</Color>
+              <GroupHeader>1</GroupHeader>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>111</ID>
+                  <Description>"String 4"</Description>
+                  <LastState Activated="0" RealAddress="02B00A59"/>
+                  <Color>80000008</Color>
+                  <VariableType>String</VariableType>
+                  <Length>9</Length>
+                  <Unicode>0</Unicode>
+                  <ZeroTerminate>1</ZeroTerminate>
+                  <Address>"METAL GEAR RISING REVENGEANCE.exe"+1740A59</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>112</ID>
+                  <Description>"String 5"</Description>
+                  <LastState Activated="0" RealAddress="02B1B779"/>
+                  <Color>80000008</Color>
+                  <VariableType>String</VariableType>
+                  <Length>9</Length>
+                  <Unicode>0</Unicode>
+                  <ZeroTerminate>1</ZeroTerminate>
+                  <Address>"METAL GEAR RISING REVENGEANCE.exe"+175B779</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>113</ID>
+                  <Description>"String 6"</Description>
+                  <LastState Activated="0" RealAddress="02B24679"/>
+                  <Color>80000008</Color>
+                  <VariableType>String</VariableType>
+                  <Length>9</Length>
+                  <Unicode>0</Unicode>
+                  <ZeroTerminate>1</ZeroTerminate>
+                  <Address>"METAL GEAR RISING REVENGEANCE.exe"+1764679</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>114</ID>
+                  <Description>"String 7"</Description>
+                  <LastState Activated="0" RealAddress="02B2D559"/>
+                  <Color>80000008</Color>
+                  <VariableType>String</VariableType>
+                  <Length>9</Length>
+                  <Unicode>0</Unicode>
+                  <ZeroTerminate>1</ZeroTerminate>
+                  <Address>"METAL GEAR RISING REVENGEANCE.exe"+176D559</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>115</ID>
+                  <Description>"String 8"</Description>
+                  <LastState Activated="0" RealAddress="02B36479"/>
+                  <Color>80000008</Color>
+                  <VariableType>String</VariableType>
+                  <Length>9</Length>
+                  <Unicode>0</Unicode>
+                  <ZeroTerminate>1</ZeroTerminate>
+                  <Address>"METAL GEAR RISING REVENGEANCE.exe"+1776479</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>25</ID>
+      <Description>"Camera"</Description>
+      <Options moRecursiveSetValue="1" moManualExpandCollapse="1"/>
+      <LastState Value="" Activated="0" RealAddress="00000000"/>
+      <Color>80000008</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>21</ID>
+          <Description>"Camera Y no good"</Description>
+          <LastState Value="14.17346573" Activated="0" RealAddress="02BAA644"/>
+          <Color>80000008</Color>
+          <VariableType>Float</VariableType>
+          <Address>"METAL GEAR RISING REVENGEANCE.exe"+17EA644</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>22</ID>
+          <Description>"Camera Y"</Description>
+          <LastState Value="14.17346573" Activated="0" RealAddress="02BAA694"/>
+          <Color>80000008</Color>
+          <VariableType>Float</VariableType>
+          <Address>"METAL GEAR RISING REVENGEANCE.exe"+17EA694</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>37</ID>
+          <Description>"Camera Control X"</Description>
+          <LastState Value="1.366757989" Activated="0" RealAddress="02BAA534"/>
+          <Color>80000008</Color>
+          <VariableType>Float</VariableType>
+          <Address>"METAL GEAR RISING REVENGEANCE.exe"+17EA534</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>48</ID>
+          <Description>"Camera X"</Description>
+          <LastState Value="18.66456985" Activated="0" RealAddress="02BAA690"/>
+          <Color>80000008</Color>
+          <VariableType>Float</VariableType>
+          <Address>"METAL GEAR RISING REVENGEANCE.exe"+17EA690</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>49</ID>
+          <Description>"Camera Z"</Description>
+          <LastState Value="148.3144379" Activated="0" RealAddress="02BAA698"/>
+          <Color>80000008</Color>
+          <VariableType>Float</VariableType>
+          <Address>"METAL GEAR RISING REVENGEANCE.exe"+17EA698</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>131</ID>
+          <Description>"Something?"</Description>
+          <LastState Value="14.74450397" Activated="0" RealAddress="02BAA684"/>
+          <Color>80000008</Color>
+          <VariableType>Float</VariableType>
+          <Address>"METAL GEAR RISING REVENGEANCE.exe"+17EA684</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>61</ID>
+      <Description>"Game"</Description>
+      <Options moManualExpandCollapse="1"/>
+      <LastState Value="" Activated="0" RealAddress="00000000"/>
+      <Color>80000008</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>118</ID>
+          <Description>"Game Speed (0.5 Half Speed, 2.0 Double Speed)"</Description>
+          <LastState Value="1" Activated="0" RealAddress="02BA93EC"/>
+          <Color>80000008</Color>
+          <VariableType>Float</VariableType>
+          <Address>"METAL GEAR RISING REVENGEANCE.exe"+17E93EC</Address>
+          <Hotkeys>
+            <Hotkey>
+              <Action>Set Value</Action>
+              <Keys>
+                <Key>79</Key>
+              </Keys>
+              <Value>.1</Value>
+              <ID>0</ID>
+            </Hotkey>
+            <Hotkey>
+              <Action>Set Value</Action>
+              <Keys>
+                <Key>80</Key>
+              </Keys>
+              <Value>1</Value>
+              <ID>1</ID>
+            </Hotkey>
+            <Hotkey>
+              <Action>Set Value</Action>
+              <Keys>
+                <Key>219</Key>
+              </Keys>
+              <Value>.01</Value>
+              <ID>3</ID>
+            </Hotkey>
+            <Hotkey>
+              <Action>Set Value</Action>
+              <Keys>
+                <Key>48</Key>
+              </Keys>
+              <Value>10</Value>
+              <ID>2</ID>
+            </Hotkey>
+            <Hotkey>
+              <Action>Set Value</Action>
+              <Keys>
+                <Key>57</Key>
+              </Keys>
+              <Value>3</Value>
+              <ID>4</ID>
+            </Hotkey>
+          </Hotkeys>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>119</ID>
+          <Description>"Boss Health (Used for finding address)"</Description>
+          <LastState Value="0" Activated="0" RealAddress="02D808E4"/>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"METAL GEAR RISING REVENGEANCE.exe"+19C08E4</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>93</ID>
+      <Description>"All Character Strings (Most Useful)"</Description>
+      <Options moManualExpandCollapse="1"/>
+      <LastState Value="" Activated="0" RealAddress="00000000"/>
+      <Color>80000008</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>73</ID>
+          <Description>"String 1"</Description>
+          <LastState Activated="0" RealAddress="02879181"/>
+          <Color>80000008</Color>
+          <VariableType>String</VariableType>
+          <Length>16</Length>
+          <Unicode>0</Unicode>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>"METAL GEAR RISING REVENGEANCE.exe"+14B9181</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>74</ID>
+          <Description>"String 2"</Description>
+          <LastState Activated="0" RealAddress="028791AD"/>
+          <Color>80000008</Color>
+          <VariableType>String</VariableType>
+          <Length>16</Length>
+          <Unicode>0</Unicode>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>"METAL GEAR RISING REVENGEANCE.exe"+14B91AD</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>75</ID>
+          <Description>"String 3"</Description>
+          <LastState Activated="0" RealAddress="02879231"/>
+          <Color>80000008</Color>
+          <VariableType>String</VariableType>
+          <Length>16</Length>
+          <Unicode>0</Unicode>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>"METAL GEAR RISING REVENGEANCE.exe"+14B9231</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>120</ID>
+      <Description>"Load Remover Stuff"</Description>
+      <Options moManualExpandCollapse="1"/>
+      <LastState Value="" Activated="0" RealAddress="00000000"/>
+      <Color>80000008</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>12</ID>
+          <Description>"Loading 1"</Description>
+          <LastState Value="0" Activated="0" RealAddress="028791FC"/>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"METAL GEAR RISING REVENGEANCE.exe"+14B91FC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>13</ID>
+          <Description>"Loading 2"</Description>
+          <LastState Value="0" Activated="0" RealAddress="02879200"/>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"METAL GEAR RISING REVENGEANCE.exe"+14B9200</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>14</ID>
+          <Description>"Loading 3"</Description>
+          <LastState Value="0" Activated="0" RealAddress="02879204"/>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"METAL GEAR RISING REVENGEANCE.exe"+14B9204</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>15</ID>
+          <Description>"Loading 4"</Description>
+          <LastState Value="0" Activated="0" RealAddress="02879208"/>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"METAL GEAR RISING REVENGEANCE.exe"+14B9208</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>17</ID>
+          <Description>"Player Control (No Use)"</Description>
+          <LastState Value="1" Activated="0" RealAddress="0284DD2C"/>
+          <Color>80000008</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"METAL GEAR RISING REVENGEANCE.exe"+148DD2C</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
