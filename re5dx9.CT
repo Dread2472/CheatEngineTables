@@ -4,7 +4,7 @@
     <CheatEntry>
       <ID>7</ID>
       <Description>"Loading = 0"</Description>
-      <LastState Value="??" Activated="0" RealAddress="00000000"/>
+      <LastState Value="257" Activated="0" RealAddress="0BC89104"/>
       <Color>80000008</Color>
       <VariableType>4 Bytes</VariableType>
       <Address>"re5dx9.exe"+00DA1714</Address>
@@ -15,7 +15,7 @@
     <CheatEntry>
       <ID>9</ID>
       <Description>"Level Number"</Description>
-      <LastState Value="??" Activated="0" RealAddress="00000000"/>
+      <LastState Value="5" Activated="0" RealAddress="0BCCDCC4"/>
       <Color>80000008</Color>
       <VariableType>4 Bytes</VariableType>
       <Address>"re5dx9.exe"+00DA1E38</Address>
@@ -24,33 +24,9 @@
       </Offsets>
     </CheatEntry>
     <CheatEntry>
-      <ID>14</ID>
-      <Description>"Z"</Description>
-      <LastState Value="??" Activated="0" RealAddress="00000000"/>
-      <Color>80000008</Color>
-      <VariableType>Float</VariableType>
-      <Address>"re5dx9.exe"+00DA2814</Address>
-      <Offsets>
-        <Offset>B0</Offset>
-        <Offset>63C</Offset>
-      </Offsets>
-    </CheatEntry>
-    <CheatEntry>
-      <ID>19</ID>
-      <Description>"Y"</Description>
-      <LastState Value="??" Activated="0" RealAddress="00000000"/>
-      <Color>80000008</Color>
-      <VariableType>Float</VariableType>
-      <Address>"re5dx9.exe"+00DA2814</Address>
-      <Offsets>
-        <Offset>B4</Offset>
-        <Offset>63C</Offset>
-      </Offsets>
-    </CheatEntry>
-    <CheatEntry>
       <ID>17</ID>
-      <Description>"X"</Description>
-      <LastState Value="??" Activated="0" RealAddress="00000000"/>
+      <Description>"Chris X"</Description>
+      <LastState Value="-58762.65625" Activated="0" RealAddress="10E9C188"/>
       <Color>80000008</Color>
       <VariableType>Float</VariableType>
       <Address>"re5dx9.exe"+00DA2814</Address>
@@ -58,41 +34,174 @@
         <Offset>B8</Offset>
         <Offset>63C</Offset>
       </Offsets>
+      <Hotkeys>
+        <Hotkey>
+          <Action>Decrease Value</Action>
+          <Keys>
+            <Key>100</Key>
+          </Keys>
+          <Value>100</Value>
+          <ID>0</ID>
+        </Hotkey>
+        <Hotkey>
+          <Action>Increase Value</Action>
+          <Keys>
+            <Key>102</Key>
+          </Keys>
+          <Value>100</Value>
+          <ID>1</ID>
+        </Hotkey>
+      </Hotkeys>
     </CheatEntry>
     <CheatEntry>
-      <ID>15</ID>
-      <Description>"pointerscan result"</Description>
-      <LastState Value="??" Activated="0" RealAddress="00000000"/>
+      <ID>19</ID>
+      <Description>"Chris Y"</Description>
+      <LastState Value="102.4765701" Activated="0" RealAddress="10E9C184"/>
       <Color>80000008</Color>
-      <VariableType>4 Bytes</VariableType>
-      <Address>"re5dx9.exe"+00EF60B8</Address>
+      <VariableType>Float</VariableType>
+      <Address>"re5dx9.exe"+00DA2814</Address>
       <Offsets>
-        <Offset>B0</Offset>
-        <Offset>53C</Offset>
+        <Offset>B4</Offset>
+        <Offset>63C</Offset>
       </Offsets>
+      <Hotkeys>
+        <Hotkey>
+          <Action>Increase Value</Action>
+          <Keys>
+            <Key>103</Key>
+          </Keys>
+          <Value>100</Value>
+          <ID>0</ID>
+        </Hotkey>
+        <Hotkey>
+          <Action>Decrease Value</Action>
+          <Keys>
+            <Key>97</Key>
+          </Keys>
+          <Value>100</Value>
+          <ID>1</ID>
+        </Hotkey>
+        <Hotkey>
+          <Action>Toggle Activation</Action>
+          <Keys>
+            <Key>105</Key>
+          </Keys>
+          <ID>2</ID>
+        </Hotkey>
+      </Hotkeys>
     </CheatEntry>
     <CheatEntry>
-      <ID>16</ID>
-      <Description>"pointerscan result"</Description>
-      <LastState Value="??" Activated="0" RealAddress="00000000"/>
+      <ID>14</ID>
+      <Description>"Chris Z"</Description>
+      <LastState Value="-11073.16602" Activated="0" RealAddress="10E9C180"/>
       <Color>80000008</Color>
-      <VariableType>4 Bytes</VariableType>
-      <Address>"re5dx9.exe"+00DA283C</Address>
+      <VariableType>Float</VariableType>
+      <Address>"re5dx9.exe"+00DA2814</Address>
       <Offsets>
         <Offset>B0</Offset>
-        <Offset>3C</Offset>
+        <Offset>63C</Offset>
       </Offsets>
+      <Hotkeys>
+        <Hotkey>
+          <Action>Increase Value</Action>
+          <Keys>
+            <Key>104</Key>
+          </Keys>
+          <Value>100</Value>
+          <ID>0</ID>
+        </Hotkey>
+        <Hotkey>
+          <Action>Decrease Value</Action>
+          <Keys>
+            <Key>98</Key>
+          </Keys>
+          <Value>100</Value>
+          <ID>1</ID>
+        </Hotkey>
+      </Hotkeys>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>24</ID>
+      <Description>"Sheva X"</Description>
+      <LastState Value="??" Activated="0" RealAddress="1044A718"/>
+      <Color>80000008</Color>
+      <VariableType>Float</VariableType>
+      <Address>1044A718</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>25</ID>
+      <Description>"Sheva Y"</Description>
+      <LastState Value="??" Activated="0" RealAddress="1044A714"/>
+      <Color>80000008</Color>
+      <VariableType>Float</VariableType>
+      <Address>1044A714</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>23</ID>
+      <Description>"Sheva Z"</Description>
+      <LastState Value="??" Activated="0" RealAddress="1044A710"/>
+      <Color>80000008</Color>
+      <VariableType>Float</VariableType>
+      <Address>1044A710</Address>
     </CheatEntry>
     <CheatEntry>
       <ID>18</ID>
-      <Description>"Facing Angle"</Description>
-      <LastState Value="??" Activated="0" RealAddress="00000000"/>
+      <Description>"Chris Facing Angle"</Description>
+      <LastState Value="-0.9801588058" Activated="0" RealAddress="10E9C194"/>
       <Color>80000008</Color>
       <VariableType>Float</VariableType>
       <Address>"re5dx9.exe"+00DA2814</Address>
       <Offsets>
         <Offset>C4</Offset>
         <Offset>63C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>32</ID>
+      <Description>"Sheva X"</Description>
+      <LastState Value="-58856.92969" Activated="0" RealAddress="10EB2B58"/>
+      <Color>80000008</Color>
+      <VariableType>Float</VariableType>
+      <Address>"re5dx9.exe"+00E38878</Address>
+      <Offsets>
+        <Offset>38</Offset>
+        <Offset>F0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>35</ID>
+      <Description>"Sheva Y"</Description>
+      <LastState Value="102.3298187" Activated="0" RealAddress="10EB2B54"/>
+      <Color>80000008</Color>
+      <VariableType>Float</VariableType>
+      <Address>"re5dx9.exe"+00E38878</Address>
+      <Offsets>
+        <Offset>34</Offset>
+        <Offset>F0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>36</ID>
+      <Description>"Sheva Z"</Description>
+      <LastState Value="-11102.89062" Activated="0" RealAddress="10EB2B50"/>
+      <Color>80000008</Color>
+      <VariableType>Float</VariableType>
+      <Address>"re5dx9.exe"+00E38878</Address>
+      <Offsets>
+        <Offset>30</Offset>
+        <Offset>F0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>37</ID>
+      <Description>"Sheva Z"</Description>
+      <LastState Value="0.9812832475" Activated="0" RealAddress="10EB2B6C"/>
+      <Color>80000008</Color>
+      <VariableType>Float</VariableType>
+      <Address>"re5dx9.exe"+00E38878</Address>
+      <Offsets>
+        <Offset>4C</Offset>
+        <Offset>F0</Offset>
       </Offsets>
     </CheatEntry>
   </CheatEntries>
